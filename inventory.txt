@@ -1,0 +1,8 @@
+Item soap 20 50
+Item handwash 30 99
+PerishableItem Milk 10 34 20241120
+PerishableItem Curd 50 19.5 20241115
+Item bread 50 45
+Item pen 100 5
+Item Bottle 50 45
+Item dettol 50 270
