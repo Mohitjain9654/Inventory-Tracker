@@ -48,7 +48,9 @@ Run the Program
 🖥️ This is a terminal-based application. All actions are interactive via command-line menus.
 
 ---
+<pre> <code>
 ### Sample Output
+  ```text
 Inventory Management System
 1. Add Item
 2. Update Item Stock
@@ -99,6 +101,9 @@ Inventory saved to inventory.txt.
 Inventory Management System
 Enter your choice: 7
 
+  ```
+  </code> </pre>
+
 ---
 
 🙋‍♂️ Author
@@ -112,4 +117,3 @@ Feel free to connect or collaborate!
 - 📧 Email: mohitjain965405@gmail.com
 
 ---
-📧 mohitjain965405@gmail.com
