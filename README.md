@@ -48,7 +48,6 @@ Run the Program
 🖥️ This is a terminal-based application. All actions are interactive via command-line menus.
 
 ---
-<pre> <code>
 ### Sample Output
   ```text
 Inventory Management System
@@ -102,7 +101,6 @@ Inventory Management System
 Enter your choice: 7
 
   ```
-  </code> </pre>
 
 ---
 
